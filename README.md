@@ -5,7 +5,7 @@ I love crafting solutions that make life a breeze for end users and businesses. 
 
 # yogi-filters
 I realized that many end users, who aren't familiar with Salesforce filters, often find them intimidating. To make their lives easier, I created a solution called Smart-Yogi-Filter. This nifty tool simplifies the process, allowing users to utilize filters effectively without needing to remember them. It's like having a zen master for your data, guiding you effortlessly through the complexities! 🧘‍♂️✨
-
+![alt text](https://github.com/ybbhosale2023/ybbhosale2023/blob/f13e05cc177ec6bbfeaf04fe038b1f7ba2830850/Images/Yogi-filters.jpg)
 # yogi-grid The Salesforce Experience for the New Age User 📱✨
 Say goodbye to Salesforce limitations with Yogi Grid, the performance guru that bends the rules to make your life easier! 🌀
 
