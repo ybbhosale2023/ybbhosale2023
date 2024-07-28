@@ -9,26 +9,33 @@ I realized that many end users, who aren't familiar with Salesforce filters, oft
 # yogi-grid
 Say goodbye to Salesforce limitations with Yogi Grid, the performance guru that bends the rules to make your life easier! 🌀
 
-Key Features:
+Key Features 🌟
 
-- **Endless Filters:** 🚫  Forget the pesky 20-filter limit. Yogi Grid offers limitless filtering options, making complex filters a breeze.
-- **Columns Galore:** 📊   Choose as many columns as your heart desires and customize them effortlessly.
-- **Formula Magic:** ✨ Add formulas to your searches for enhanced data analysis.
-- **Record Freedom:** 🔓    No more 2000 record limits. Yogi Grid lets you search through your data without constraints.
-- **Super Simplified Search:** ⚡ Experience lightning-fast, simplified searches that make finding what you need easier than ever. ⚡
+- **Endless Filters** 🚫  Forget the pesky 20-filter limit. Yogi Grid offers limitless filtering options, making complex filters a breeze.
+- **Columns Galore** 📊   Choose as many columns as your heart desires and customize them effortlessly.
+- **Formula Magic** ✨ Add formulas to your searches for enhanced data analysis.
+- **Record Freedom** 🔓    No more 2000 record limits. Yogi Grid lets you search through your data without constraints.
+- **Super Simplified Search** ⚡ Experience lightning-fast, simplified searches that make finding what you need easier than ever. ⚡
 
 Yogi Grid transforms your Salesforce experience, making it more intuitive, powerful, and user-friendly. Get ready to master your data with the wisdom and speed of a true yogi!
-# yogi-data-migrator
 
-# yogi-owners-data
-
-# yogi-record-scoller
-
+# yogi-record-navigator
+Welcome to the future of Salesforce, where navigating through records is as easy as scrolling through Instagram or YouTube! Yogi Grid is designed for the new age user, providing a seamless and intuitive interface to view and interact with records.
+Key Features 🌟
+- **Scroll and Explore** 📜 Effortlessly scroll through records and their details, just like browsing your favorite social media feed.
+- **Engage with Records** 👍👎💬 Like, dislike, and comment on records, making updates interactive and fun.
+- **Take Actions on the Go** 🚀 Whether you’re traveling, chatting with friends, or in a meeting, you can easily update records and provide approvals.
+- **Blazing Fast Performance** ⚡ Our design focuses on pre-fetching records, ensuring you never wait for server-side responses.
+- **LWC Component** 🛠️ Built as a Lightning Web Component, it’s configurable for applications and communities.
+- **Universal Compatibility** 🌐 Supports all generic objects, whether custom or standard in Salesforce.
+- 
 # yogi-whatsapp
 
 # yogi-chatter
 
-# yogi-
+# yogi-data-migrator
+
+# yogi-owners-data
 
 
 Problem Solving: I work very closely with customers to understand how technology can solve their problems. It's like being a tech detective, solving mysteries one bug at a time! 🕵️‍♂️🔍
