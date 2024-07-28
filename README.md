@@ -29,7 +29,14 @@ Key Features 🌟
 - **LWC Component** 🛠️ Built as a Lightning Web Component, it’s configurable for applications and communities.
 - **Universal Compatibility** 🌐 Supports all generic objects, whether custom or standard in Salesforce.
 - 
-# yogi-whatsapp
+# Yogi-WhatsApp: Bridging Salesforce with WhatsApp 📱🔗
+Introducing Yogi-WhatsApp, our groundbreaking integration of WhatsApp with Salesforce. Say goodbye to lost conversations on employees’ personal WhatsApp accounts and hello to seamless customer interaction within Salesforce!
+Key Features 🌟
+- **Centralized Conversations**  🗂️ Keep all customer interactions within Salesforce, maintaining a complete history for easy tracking.
+- **Unified Customer View**  🕵️ One sales representative can track all active customer conversations in one place.
+- **Initiate and Extend Conversations**  📞 Start or continue WhatsApp chats directly from Salesforce.
+- **Lead Integration**  📈 Integrate with Propertyfinder, Bayut, and Dubizzle to automatically pull WhatsApp leads into Salesforce.
+- **AI-Powered Assistance**  🤖 Get conversation summaries and AI-driven suggestions to enhance your sales approach.
 
 # yogi-chatter
 
