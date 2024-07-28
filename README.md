@@ -6,7 +6,7 @@ I love crafting solutions that make life a breeze for end users and businesses. 
 # yogi-filters
 I realized that many end users, who aren't familiar with Salesforce filters, often find them intimidating. To make their lives easier, I created a solution called Smart-Yogi-Filter. This nifty tool simplifies the process, allowing users to utilize filters effectively without needing to remember them. It's like having a zen master for your data, guiding you effortlessly through the complexities! 🧘‍♂️✨
 
-# yogi-grid
+# yogi-grid The Salesforce Experience for the New Age User 📱✨
 Say goodbye to Salesforce limitations with Yogi Grid, the performance guru that bends the rules to make your life easier! 🌀
 
 Key Features 🌟
@@ -37,7 +37,9 @@ Key Features 🌟
 - **Initiate and Extend Conversations**  📞 Start or continue WhatsApp chats directly from Salesforce.
 - **Lead Integration**  📈 Integrate with Propertyfinder, Bayut, and Dubizzle to automatically pull WhatsApp leads into Salesforce.
 - **AI-Powered Assistance**  🤖 Get conversation summaries and AI-driven suggestions to enhance your sales approach.
-
+- ** Complete History Tracking** 📚 Never lose track of a conversation again.
+- **Enhanced Lead Management** 🚀 Easily track leads from conversation to deal.
+- **AI Insights** 💡 Leverage AI to summarize conversations and suggest next steps.
 # yogi-chatter
 
 # yogi-data-migrator
