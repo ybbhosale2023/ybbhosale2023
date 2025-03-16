@@ -1,6 +1,29 @@
 I'm a passionate Salesforce enthusiast with extensive experience in creating innovative products and solving customer issues. My expertise includes a solid understanding of various architectures, allowing me to design and implement robust solutions.
 
 🚀 What I Do:
+
+In Summary 
+Salesforce Technical Architect & Senior Developer
+Specializing in Enterprise Solutions, System Integration & AI-Driven Optimization
+
+Core Competencies
+✅ Salesforce Development:
+  Apex Batch Processing, Lightning Web Components (LWC), Propertybase Integration
+  Integration with Whatsapp , Property Portal Like Bayut, Propertyfinder using API 
+  Integration With DLD Data , Integration of Owners Data 
+  Governor Limit Optimization, Debugging Locking Conflicts (e.g., 23k+ child records)
+  Email Utility Classes, Deduplication Logic, No-Code Automation
+✅ System Integration:
+    REST/SOAP API Integration (e.g., Dubai Land Department Deposit Service)
+    Real-Time Communication Hubs (WhatsApp, SMS, Email)
+    Salesforce-to-External Database Synchronization
+✅ Strategic Leadership:
+  AI Strategy Development for CRM Maturity
+  Cross-Team Collaboration (e.g., Legal, Marketing, External Vendors)
+  Handling the Vendor to meet Business Demands 
+  Stakeholder Presentations & Technical Documentation
+
+
 I love crafting solutions that make life a breeze for end users and businesses. I put a lot of thought 🧠 and analysis into understanding user personas, their technical chops, and the challenges they face. By stepping into their shoes 👟, I aim to build solutions that don't just dodge frustration but create a harmonious ecosystem 🌐 to tackle business problems. Think of me as your tech-savvy friend 🤓 who ensures technology is always working in your favor!
 
 # yogi-filters
